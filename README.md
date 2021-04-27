@@ -14,4 +14,12 @@ first experience working with gitHub.
 
 #### test with picture
 
+```javascript
+function getRandomNumber(x) {
+  return Math.random() * x;
+}
+
+console.log(getRandomNumber(10));
+```
+
 <img src ="images/photo-1508921912186-1d1a45ebb3c1.jpg">
