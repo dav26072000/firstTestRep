@@ -24,4 +24,5 @@ function getRandomNumber(x) {
 }
 
 console.log(getRandomNumber(10));
+console.log("be happy")
 ```
