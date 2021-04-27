@@ -1,4 +1,6 @@
 let x = 2;
 let z = 3;
 let f = "bob";
-function getRandomNumber(x) {}
+function getRandomNumber(x) {
+  return Math.random() * x;
+}
