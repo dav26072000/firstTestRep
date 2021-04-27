@@ -19,10 +19,12 @@ first experience working with gitHub.
 ## Code part
 
 ```javascript
+
 function getRandomNumber(x) {
   return Math.random() * x;
 }
 
 console.log(getRandomNumber(10));
 console.log("be happy")
+
 ```
